@@ -1,2 +1,3 @@
-# minha-mochila
-Materiais sobre desenvolvimento web, dados, ética, cultura 
+# mochila-vermelha
+
+Materiais sobre desenvolvimento web, dados, inteligência artificial, ética, cultura ~ mais próximas de nós.
