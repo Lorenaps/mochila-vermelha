@@ -7,4 +7,4 @@
 - [DjangoCon 2019 - Construindo consultas efetivas com experssões | Building effective Django queries with expressions - Vanessa Barreiros
 ](https://www.youtube.com/watch?v=a-sfr6y_hY8&ab_channel=DjangoConUS)
 
-> Já pensou em fazer seu conteúdo? Ou adicionar seu material preferido? Colabore!
+> Já pensou em adicionar aqui seu conteúdo, tchuquie? Colabore!
