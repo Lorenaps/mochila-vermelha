@@ -7,15 +7,16 @@ Fique à vontade para colaborar!
 ## Assuntos
 
 Aqui você vai encontrar vários links separados por temas dessas Deusas e Deuses maravilhosos e didáticos!
-A ideia surgiu porque sempre que vou fazer/indicar material tento trazer sempre pessoas parecidas conosco,
-porque é importante tanto nos ver, quanto reconhecer nossos pares! 
+
+A ideia surgiu porque sempre que vou fazer/indicar material busco por referências parecidas conosco.
+E é importante tanto nos ver, quanto reconhecer nossos pares! 
 Essa galera massa que vem fazendo um trabalho fantástico na área. **<Obrigada, povo!>**
 
-É isso, entra, senta, clica, engaja lá o material da galera e principalmente: Colabora!
+É isso! Entra, senta, clica, engaja lá o material da galera e principalmente: Colabora!
 
 |Tema |Assuntos|
-|Desenvolvimento WEB|[Django]()|
-|Inteligência artificial|[Ética e viéses]()|
+|Desenvolvimento WEB|[Django](https://github.com/Lorenaps/mochila-vermelha/blob/main/pages/django.md)|
+|Inteligência artificial|[Ética e viéses](https://github.com/Lorenaps/mochila-vermelha/blob/main/pages/aprendizagem_maquina.md)|
 
 
 ## Como colaborar?
@@ -25,6 +26,6 @@ Mas se tiver sugestão de classificação, só falar...
 
 Pra colaborar não tem mistério:
 - Pega teu link massa, o título do conteúdo e a pessoa participante;
-- Ache o arquivo onde a tua contribuição se encaixa melhor (So olhar a tabelinha acima);
+- Ache o arquivo onde a tua contribuição se encaixa melhor (Só olhar a tabelinha acima);
 - Abre um PR adicionando tua contribuição no formato indicado do arquivo;
-- Marca alguem que já colabora pra revisar :)
+- Marca alguém que já colabora pra revisar :)
