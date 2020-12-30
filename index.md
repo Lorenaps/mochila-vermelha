@@ -15,8 +15,8 @@ Essa galera massa que vem fazendo um trabalho fantástico na área. **<Obrigada,
 É isso! Entra, senta, clica, engaja lá o material da galera e principalmente: Colabora!
 
 |Tema |Assuntos|
-|Desenvolvimento WEB|[Django](https://github.com/Lorenaps/mochila-vermelha/blob/main/pages/django.md)|
-|Inteligência artificial|[Ética e viéses](https://github.com/Lorenaps/mochila-vermelha/blob/main/pages/aprendizagem_maquina.md)|
+|Desenvolvimento WEB|[Django](./pages/django.html)|
+|Inteligência artificial|[Ética e viéses](./pages/aprendizagem_maquina.html)|
 
 
 ## Como colaborar?
